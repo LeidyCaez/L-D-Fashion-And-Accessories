@@ -1,7 +1,7 @@
 import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
-import { NotfoundComponent } from './demo/components/notfound/notfound.component';
-import { LandingComponent } from './demo/components/landing/landing.component';
+import { NotfoundComponent } from './notfound/notfound.component';
+import { LandingComponent } from './landing/landing.component';
 
 @NgModule({
     imports: [
